@@ -1,5 +1,10 @@
 This is a CodeIgniter template using Twitter Bootstrap.
 
+Current versions:
+CodeIgniter 2.1.0
+Bootstrap 2.0.1
+JQuery 1.7.1 (Google CDN linked)
+
 Bootstrap files are located in include/bootstrap
 
 Default route is the application/controllers/template.php controller
