@@ -1,0 +1,9 @@
+This is a CodeIgniter template using Twitter Bootstrap.
+
+Bootstrap files are located in include/bootstrap
+
+Default route is the application/controllers/template.php controller
+
+template.php controller loads application/views/content_template.php
+
+content_template.php loads application/views/layout/header.php and application/views/layout/footer.php
