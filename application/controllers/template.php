@@ -7,9 +7,9 @@ class Template extends CI_Controller {
 		parent::__construct();	
 
 	}
-	
+
 	function index() 
 	{
-		$this->load->view('content_template');
+		$this->load->view('layout/content_template');
 	}
 }
